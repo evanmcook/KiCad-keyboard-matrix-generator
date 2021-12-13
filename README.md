@@ -1,4 +1,6 @@
 ## create_key_matrix.py
+THIS SCRIPT IS NOT COMPATIBLE WITH KICAD V6 FILES!!!!
+
 #### Examples:
 
 6x10 matrix with diodes pointing at the collumns:
