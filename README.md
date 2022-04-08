@@ -16,6 +16,10 @@ Creating 2x10 matrix... in /home/user/kicad_projects/60key_keyboard/60key_keyboa
 Done!
 ```
 
+1. navigate to the directory where the .sch is 
+2. have an .sch file there
+3. enter the command create_key_matrix.py -r 6 -c 10 -t "Keyboard matrix" -rl "key_row" -cl "key_col" --revDiode 60key_keyboard.sch
+
 ### KiCad
 
 ![Imgur](https://i.imgur.com/OdTqsCL.png)
